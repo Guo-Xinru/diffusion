@@ -1,0 +1,9 @@
+.conda/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+data/
+outputs/
+checkpoints/
+logs/
