@@ -7,3 +7,5 @@ data/
 outputs/
 checkpoints/
 logs/
+.venv/
+Miniforge*-Linux-*.sh
